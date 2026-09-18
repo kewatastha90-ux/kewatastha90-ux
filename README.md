@@ -2,8 +2,7 @@
 
 I am a passionate coder and an aspiring AI/ML & Data Scientist, driven by a curiosity for technology and a love for building cool, data-driven projects. My journey involves delving into the world of computer science, exploring Python, and learning how to solve real-world problems using data.
 
-![Astha's Stats](https://vercel.app)
-
+!Astha's Stats
 ## 🚀 About Me
 
 - 🔭 I'm currently focused on sharpening my coding skills and logic building.
@@ -12,8 +11,7 @@ I am a passionate coder and an aspiring AI/ML & Data Scientist, driven by a curi
 - 💻 Constantly exploring open-source repositories to learn best development practices.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
+ My Skills
 ## 🌱 Currently Exploring
 
 - 🚀 **Learning AI/ML & Data Science**
